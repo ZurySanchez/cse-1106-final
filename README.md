@@ -9,7 +9,9 @@ This project analyzes the temperature in the classrooms and decides if the tempe
 Requirements
 
 -Allow the user to enter classroom temperature readings in Fahrenheit 
+
 -determine whether a temperature is within the acceptable range of 68F - 76F 
+
 -Display an appropriate NORMAL or WARNING status 
 
 -Calculate the average of the recorded temperatures
