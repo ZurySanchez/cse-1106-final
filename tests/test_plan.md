@@ -10,24 +10,24 @@ Result:
 
 2nd Case:
 Expected:
-100F-Warning-ON 
+76F-Normal-OFF
 Result:
-
+76F-Normal-OFF
 
 3rd Case:
 Expected:
-0F-Warning-ON  
+68F-Normal-OFF
 Result:
-
+68F-Normal-OFF
 
 4th Case:
 Expected
-75F-Normal-OFF 
+65F-Warning-ON
 Result:
-
+65F-Warning-ON
 
 5th Case:
 Expected:
 18F-Warning-ON   
 Result:
-
+18F-Warning-ON
